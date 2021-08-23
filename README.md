@@ -6,8 +6,8 @@
 ###### Author: siham khaloof
 
 
-* ##### [Actions]()
-* ##### [Pull Request](https://github.com/sbkhaloof/bearer-auth/pull/1)
+* ##### [Actions](https://github.com/sbkhaloof/bearer-auth/actions)
+* ##### [Pull Request](https://github.com/sbkhaloof/bearer-auth/pull/3)
 * ##### [Heroku](https://siham-bearer-auth.herokuapp.com/)
 
 ---
