@@ -3,7 +3,8 @@
 ---
 ### Deployment Test
 
-###### Author: Ibrahem Alomari
+###### Author: siham khaloof
+
 
 * ##### [Actions]()
 * ##### [Pull Request](https://github.com/sbkhaloof/bearer-auth/pull/1)
