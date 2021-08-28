@@ -1,7 +1,7 @@
 {
   "name": "bearer-auth",
   "version": "1.0.0",
-  "description": "",
+  "description": "--- ### Deployment Test",
   "main": "app.js",
   "scripts": {
     "start": "node index.js",
@@ -24,7 +24,7 @@
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
-    "jest": "^27.0.6",
+    "jest": "^27.1.0",
     "jsonwebtoken": "^8.5.1",
     "morgan": "^1.10.0",
     "pg": "^8.7.1",
